@@ -1,0 +1,26 @@
+﻿Order_ID,Region,Product,Category,Quantity,Sales,Cost,Profit,Month,order_date
+1001,West,Laptop,Electronics,2,120000,98000,22000,Jan-2024,2024-01-05
+1002,North,Mobile,Electronics,5,90000,70000,20000,Jan-2024,2024-01-06
+1003,East,Office Chair,Furniture,4,28000,18000,10000,Jan-2024,2024-01-07
+1004,South,Printer,Electronics,1,15000,12000,3000,Jan-2024,2024-01-10
+1005,West,Desk,Furniture,3,36000,25000,11000,Jan-2024,2024-01-12
+1006,North,Laptop,Electronics,1,60000,50000,10000,Feb-2024,2024-02-15
+1007,East,Tablet,Electronics,3,45000,36000,9000,Feb-2024,2024-02-16
+1008,South,Monitor,Electronics,2,24000,18000,6000,Feb-2024,2024-02-18
+1009,West,Keyboard,Accessories,6,9000,6000,3000,Feb-2024,2024-02-20
+1010,North,Mouse,Accessories,8,6400,4000,2400,Feb-2024,2024-02-22
+1011,East,Laptop,Electronics,2,118000,96000,22000,Mar-2024,2024-03-05
+1012,South,Office Chair,Furniture,5,35000,24000,11000,Mar-2024,2024-03-08
+1013,West,Printer,Electronics,2,30000,24000,6000,Mar-2024,2024-03-10
+1014,North,Desk,Furniture,4,48000,36000,12000,Mar-2024,2024-03-12
+1015,East,Monitor,Electronics,3,36000,27000,9000,Mar-2024,2024-03-15
+1016,South,Laptop,Electronics,1,61000,52000,9000,Apr-2024,2024-04-02
+1017,West,Tablet,Electronics,4,60000,48000,12000,Apr-2024,2024-04-05
+1018,North,Keyboard,Accessories,7,10500,7000,3500,Apr-2024,2024-04-07
+1019,East,Mouse,Accessories,10,8000,5000,3000,Apr-2024,2024-04-10
+1020,South,Desk,Furniture,2,24000,18000,6000,Apr-2024,2024-04-12
+1021,West,Laptop,Electronics,2,122000,100000,22000,May-2024,2024-05-03
+1022,North,Mobile,Electronics,6,108000,84000,24000,May-2024,2024-05-06
+1023,East,Office Chair,Furniture,3,21000,15000,6000,May-2024,2024-05-08
+1024,South,Monitor,Electronics,4,48000,36000,12000,May-2024,2024-05-10
+1025,West,Printer,Electronics,1,15500,12500,3000,May-2024,2024-05-12
